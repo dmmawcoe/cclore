@@ -1,0 +1,8 @@
+* {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background-color: yellow;
+  color: lime;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
